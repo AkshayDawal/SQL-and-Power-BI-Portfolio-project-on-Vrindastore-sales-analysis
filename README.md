@@ -6,9 +6,7 @@ Business Objective
 <br>
 The aim of this project is to analyze the Vrindastore sales data to identify opportunities for improvement and growth. The analysis focuses on understanding customer behavior, sales performance, profitability, and operational efficiencies.
 <br>
-
 Project Focus Areas
-<br>
 1. Dataset Overview
    <br>
 •	Total orders processed
@@ -51,6 +49,8 @@ Project Focus Areas
 <br>
 •	Investigate sub-category preferences in various regions
 
+
+
 Dataset Description
 <br>
 The dataset comprises the following key columns:
@@ -73,6 +73,7 @@ Tools and Technologies
 <br>
 •	MS Word: For Documentation.
 <br>
+
 Thank you for taking the time to review this project! All SQL scripts and Power BI dashboards are available for detailed exploration.
 
 

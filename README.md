@@ -10,31 +10,30 @@ Project Focus Areas
 
 1. Dataset Overview
 •	Total orders processed
-
 •	Sales performance metrics (total sales and average profit)
-3. Sales Insights
+
+2. Sales Insights
 •	Identify top-performing products and categories
-
 •	Spot trends and patterns in sales over time
-4. Customer Behavior Analysis
+
+3. Customer Behavior Analysis
 •	Segment customers based on purchasing habits
-
 •	Evaluate contributions of customer segments to overall revenue
-5. Operational Efficiency
+
+4. Operational Efficiency
 •	Assess shipping modes for cost-effectiveness and timeliness
+• Analyze order processing times and identify improvement areas
 
-•	Analyze order processing times and identify improvement areas
-6. Profitability Metrics
+5. Profitability Metrics
 •	Evaluate profit margins across product categories and sub-categories
-
 •	Assess the impact of discounts on profitability
-
 •	Identify products or regions requiring cost control measures
-7. Geographical Insights
-•	Analyze sales distribution across countries and regions
 
+6. Geographical Insights
+•	Analyze sales distribution across countries and regions
 •	Explore state-level trends in product categories
-8. Regional Trends
+
+7. Regional Trends
 •	Investigate sub-category preferences in various regions
 
 Dataset Description

@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project focuses on analyzing the Vrindastore sales data to identify opportunities for improvement and growth. The objective is to gain insights into customer behavior, sales performance, profitability, and operational efficiencies.
+This project focuses on analysing the Vrindastore sales data to identify opportunities for improvement and growth. The objective is to gain insights into customer behaviour, sales performance, profitability, and operational efficiencies.
 
 ## Project Focus Areas
 
